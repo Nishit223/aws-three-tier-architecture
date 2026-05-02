@@ -15,9 +15,9 @@
 
 ## Introduction
 
-Three-tier architecture is a software design pattern that separates an application into three logical layers: the presentation tier, the application tier, and the data tier. Each tier runs on its own infrastructure and can be developed, scaled, and maintained independently.
+A three-tier web application architecture is a way of organizing a web application into three main parts: the presentation layer, the application layer, and the data layer. Each of these layers has its own role and works separately, which makes the application easier to update, manage, and scale when needed.
 
-This document describes a three-tier architecture implemented on Amazon Web Services (AWS), designed for high availability, security, and scalability.
+In this document, a three-tier web application architecture is implemented using Amazon Web Services (AWS), with a focus on building a system that is reliable, secure, and scalable.
 
 ## Architecture Diagram
 
