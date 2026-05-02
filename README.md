@@ -21,7 +21,7 @@ This document describes a three-tier architecture implemented on Amazon Web Serv
 
 ## Architecture Diagram
 
-![AWS Three-Tier Architecture](./images/three-tier-architecture.png)
+![AWS Three-Tier Architecture](images/three tire architecture.png)
 
 *Figure 1: AWS Three-Tier Architecture showing web, application, and database tiers deployed across multiple Availability Zones within a VPC.*
 
